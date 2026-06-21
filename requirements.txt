@@ -1,0 +1,7 @@
+streamlit
+vnstock>=3.5.1
+pandas
+numpy
+plotly
+scikit-learn
+tensorflow-cpu
